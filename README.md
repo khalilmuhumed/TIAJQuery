@@ -3,7 +3,7 @@ A simple jQuery-based application to search train schedules between stations in 
 **Author:** Khalil Muhumed
 
 ## Demo link:
-Access my site at [Netlify Deployment Link](https://your-netlify-link.netlify.app)  
+Access my site at [Netlify Deployment Link](https://tiajquery.netlify.app/) 
 
 ## How was the workload divided
 This was an individual project. All planning, development, design, testing, and documentation were done by me, Khalil Muhumed.
