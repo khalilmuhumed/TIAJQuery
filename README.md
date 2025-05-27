@@ -58,7 +58,7 @@ DOM updates and event handling are done with jQuery.
 The user’s last selected route is saved and loaded using localStorage.
 
 ## Status
-Train Schedule App is complete and functional. Future improvements may include:
+Junien Aikatauluhaku 2.0 is complete and functional. Future improvements may include:
 - Filtering by train type or departure time
 - Better accessibility and mobile layout
 
